@@ -1,2 +1,2 @@
-# Small-Business-Inventory
-CIS 260 Field: Projet - Small-Business-Inventory-Tracker
+# My_Biographie
+CIS 260 Field: Projet - my bio
